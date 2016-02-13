@@ -53,7 +53,7 @@ header{
     margin-bottom: 30px;
 }
 
-@media screen and (min-width:0px) and (max-width: 767px) {
+@media screen and (min-width:0px) and (max-width: 523px) {
 	.headline {
 		display: none;
 	}
@@ -62,7 +62,7 @@ header{
 
 }
 
-@media screen and (min-width:768px) {
+@media screen and (min-width:524px) {
     .brand {
         display: inherit;
         margin-top: 20px;
