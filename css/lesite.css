@@ -15,7 +15,7 @@ body {
 
 .panel-body{
 	height: inherit;
-	background-color: #DFF0D8;
+	background-color: #E3EAF4 /*#DFF0D8*/;
     font-size: 19px;
 }
 
@@ -28,7 +28,7 @@ header{
 }
 
 .panel-default>.panel-heading {
-   background-color: #CDF1DD;
+   background-color: rgba(18, 96, 97, 0.17) /*#CDF1DD*/;
 }
 .right{
 	float: right;
